@@ -1,0 +1,12 @@
+.Visor {
+    display: flex;
+    width: 100%;
+    background-color: #25f925;
+    color: #000000;
+    justify-content: flex-end;
+    padding: 15px 0;
+    font-size: 2em;
+    border-radius: 3px;
+    padding-right: 15px;
+    box-sizing: border-box;
+}
